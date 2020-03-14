@@ -1,0 +1,64 @@
+----------------------------------------------------------------
+Fri Mar 13 23:34:56 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0170-d512-122a-00000389ea00 
+on database directory memory:/home/rifaza/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/CourseApi/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15 
+Loaded from file:/home/rifaza/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.2+7-LTS
+user.dir=/home/rifaza/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/CourseApi
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-88-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 13 23:38:16 IST 2020:
+Shutting down instance a816c00e-0170-d512-027e-0000029b4230 on database directory memory:/home/rifaza/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/CourseApi/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
+----------------------------------------------------------------
+Fri Mar 13 23:38:18 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ac3880cc-0170-d512-027e-0000029b4230 
+on database directory memory:/home/rifaza/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/CourseApi/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
+Loaded from file:/home/rifaza/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.2+7-LTS
+user.dir=/home/rifaza/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/CourseApi
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-88-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 13 23:38:37 IST 2020:
+Shutting down instance ac3880cc-0170-d512-027e-0000029b4230 on database directory memory:/home/rifaza/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/CourseApi/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
+----------------------------------------------------------------
+Fri Mar 13 23:38:38 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 939b418a-0170-d512-027e-0000029b4230 
+on database directory memory:/home/rifaza/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/CourseApi/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
+Loaded from file:/home/rifaza/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.2+7-LTS
+user.dir=/home/rifaza/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/CourseApi
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-88-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 13 23:38:58 IST 2020:
+Shutting down instance 939b418a-0170-d512-027e-0000029b4230 on database directory memory:/home/rifaza/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/CourseApi/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
+----------------------------------------------------------------
+Fri Mar 13 23:39:00 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance de3f0248-0170-d512-027e-0000029b4230 
+on database directory memory:/home/rifaza/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/CourseApi/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
+Loaded from file:/home/rifaza/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.2+7-LTS
+user.dir=/home/rifaza/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/CourseApi
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-88-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 13 23:50:11 IST 2020:
+Shutting down instance de3f0248-0170-d512-027e-0000029b4230 on database directory memory:/home/rifaza/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/CourseApi/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
